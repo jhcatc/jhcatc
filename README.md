@@ -50,11 +50,27 @@
   </a>
 </p>
 <!-- Connect with me -->
+
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Projects</h2></summary>
   </ul>
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <a href="https://github.com/jhcatc/Proyecto-Pagina-Estatica">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=Proyecto-Pagina-Estatica" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/jhcatc/numpy-100">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=numpy-100" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
