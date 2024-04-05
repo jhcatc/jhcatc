@@ -4,7 +4,7 @@
   <ul align="center">
   <summary><h2 style="display: inline-block">About me</h2></summary>
   </ul>
-- Mechanical Engineer, Data Science, Data Analyst, Data Engineer<br>
+- Data Science, Data Analyst, Data Engineer, Python, Pandas, MySQL, SPARK, Scikit Learn - Mechanical Engineer<br>
 - Studying Data Science formally<br>
 - Learning different technologies and Data Science tools on your own<br>
 - Link to my Linkedin account:  https://www.linkedin.com/in/jhonny-jose-catari-carrasquel-1792127a/<br>  
