@@ -60,13 +60,13 @@
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <a href="https://github.com/jhcatc/PI1_MLOps_Stean">">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=PI1_MLOps_Stean" alt="GitHub Stats" />
+        <a href="https://github.com/jhcatc/PI1_MLOps_Stean">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=PI1_MLOps_Stean" alt="GitHub Stats"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/jhcatc/numpy-100">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=numpy-100" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=numpy-100" alt="GitHub Stats"/>
         </a>
       </td>
     </tr>
