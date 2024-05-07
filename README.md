@@ -60,8 +60,8 @@
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <a href="https://github.com/jhcatc/Proyecto-Pagina-Estatica">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=Proyecto-Pagina-Estatica" alt="GitHub Stats" />
+        <a href="https://github.com/jhcatc/PI1_MLOps_Stean">">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=PI1_MLOps_Stean" alt="GitHub Stats" />
         </a>
       </td>
       <td width="50%" align="center">
