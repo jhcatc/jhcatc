@@ -70,6 +70,18 @@
         </a>
       </td>
     </tr>
+        <tr border="none">
+      <td width="50%" align="center">
+        <a href="https://github.com/jhcatc/PF_Starbucks_Henry">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=PF_Starbucks_Henry" alt="GitHub Stats"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/jhcatc/PF_Starbucks_Henry">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhcatc&repo=PF_Starbucks_Henry" alt="GitHub Stats"/>
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
