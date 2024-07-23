@@ -1,8 +1,8 @@
-<h2 align="center"><b>Hola, Soy: Jhonny Jose Catari Carrasquel</b></h2><br><center><div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjI5ZjVjOXV4MXpkaGRtc2c5OXA2aDc2aHVseTl5ZGNwd2JxY3F6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="180" ></div>
+<h2 align="center"><b>Hola, soy Jhonny Jose Catari</b></h2><br><center><div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjI5ZjVjOXV4MXpkaGRtc2c5OXA2aDc2aHVseTl5ZGNwd2JxY3F6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="180" ></div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mechanical+Engineer..&#9874;++;Data+Engineer,;Data+Analyst,;Data+Science,;Computer+Science+Student,;Love+To+Learn+New+Stuffs..<3"></a>
   <ul align="center">
-  <summary><h2 style="display: inline-block">About me</h2></summary>
+  <summary><h2 style="display: inline-block">Acerca de mi</h2></summary>
   </ul>
 - Data Science, Data Analyst, Data Engineer, Python, Pandas, MySQL, SPARK, Scikit Learn - Mechanical Engineer<br>
 - Actualmente en formacion de Data Science<br>
@@ -40,7 +40,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -55,7 +55,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Projects</h2></summary>
+    <summary><h2 style="display: inline-block">Proyectos</h2></summary>
   </ul>
   <table align="center">
     <tr border="none">
