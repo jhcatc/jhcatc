@@ -5,11 +5,10 @@
   <summary><h2 style="display: inline-block">Acerca de mi</h2></summary>
   </ul>
 - Data Science, Data Analyst, Data Engineer, Python, Pandas, MySQL, SPARK, Scikit Learn - Mechanical Engineer<br>
-- Actualmente en formacion de Data Science<br>
-- Aprendiendo diferentes tecnologías y herramientas de Data Since<br>
+- Actualmente trabajando como Data Scientics en el ECommerce de la Construccion saldu.co<br>
+- Aprendiendo y mejorndo diferentes tecnologías y herramientas de Data Scientics<br>
 - Link a mi cuenta de Linkedin:  https://www.linkedin.com/in/jhonny-jose-catari-carrasquel-1792127a/<br>  
-- Mi dirección de Correo Electrónico:  jhcatc@gmail.com<br>
-- Buscando trabajo remoto o hibrido en Tecnología, Ciencia de Datos, Analista de Datos, Ingeniería de Datos<br>  
+- Mi dirección de Correo Electrónico:  jhcatc@gmail.com<br> 
 </p>
 <p align="center">
 </p>
